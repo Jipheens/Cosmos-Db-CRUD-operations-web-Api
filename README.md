@@ -1,1 +1,1 @@
-first time learning about the NoSQL
+first time learning about the NoSQL databases
