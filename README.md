@@ -1,1 +1,1 @@
-first time learning
+first time learning about
