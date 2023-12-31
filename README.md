@@ -1,1 +1,1 @@
-first time learning about
+first time learning about the NoSQL
