@@ -1,1 +1,1 @@
-first time learning about the NoSQL databases on Azure
+first time learning about the NoSQL databases on Azure cloud platform
