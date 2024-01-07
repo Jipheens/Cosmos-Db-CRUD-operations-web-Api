@@ -1,1 +1,1 @@
-first time learning about the NoSQL databases using
+first time learning about the NoSQL databases on Azure
